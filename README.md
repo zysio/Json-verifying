@@ -12,7 +12,7 @@
 
 The json_verifying class requires creating an object and providing it with the file path as an argument. Within this class, there is a method named verify.
 
-### Method verify inside json_verifying class:
+### Method verify:
 
 1. Checks if the JSON has a valid format.
 2. Checks if the file is empty or exists.
